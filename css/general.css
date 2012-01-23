@@ -1,0 +1,44 @@
+@charset "utf-8";
+/* CSS Document */
+
+html {
+	background-color:#666666;
+	font:normal 100%/1.5 sans-serif;
+}
+
+body{
+	color:#3CF;
+	font-size:24px;
+	margin: 3em auto;
+	padding:1em;
+	width:600px;
+}
+
+.inputs {
+	border:#CCCCCC solid 5px;
+	border-radius:15px;
+	padding:1em;
+	text-align:center;
+	
+	-webkit-box-shadow: 0px 0px 15px 5px ;
+	-moz-box-shadow: 0px 0px 15px 5px ;
+	box-shadow: 0px 0px 15px 5px ; 
+	
+	background-color:#333;
+
+
+}
+
+.outputs{
+	margin-top:1em;
+	border:#CCCCCC solid 5px;
+	border-radius:15px;
+	padding:1em;
+	text-align:center;
+	
+	-webkit-box-shadow: 0px 0px 15px 5px ;
+	-moz-box-shadow: 0px 0px 15px 5px ;
+	box-shadow: 0px 0px 15px 5px ; 
+
+	background-color:#333;
+}
